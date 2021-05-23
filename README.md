@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77)
 <!--
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77)
 **barimehdi77/barimehdi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+### 📈 My Github status:
+![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=barimehdi77&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barimehdi77&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77)
+[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/mbari?cursus=C%20reloaded)](https://github.com/mbari/badge42)
