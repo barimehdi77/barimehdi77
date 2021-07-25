@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Project named **inception** you can check it [here](https://github.com/barimehdi77/inception)
 - 🌱 I’m currently learning: C, PYTHON, CYBERSECURITY and MACHINE LEARNING ...
 - 📫 How to reach me: [facebook](https://www.facebook.com/bari.mehdi.77/) - [twitter](https://twitter.com/Barimehdi77) - [linkdin](https://www.linkedin.com/in/Barimehdi77/)
-- ⚡ Fun fact: **There is a hacker attack every 39 seconds**
+- ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**
 
 
 
