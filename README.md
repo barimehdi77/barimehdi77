@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K45UOA7)
 
 ---
 ### 📈 My Github status:
