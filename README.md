@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77)
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/mbari?cursus=C%20reloaded)](https://github.com/BariMehdi77)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/barimehdi77)
 
