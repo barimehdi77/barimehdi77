@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K45UOA7)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/barimehdi77)
 
 ---
 ### 📈 My Github status:
@@ -24,5 +25,4 @@ Here are some ideas to get you started:
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77)
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/mbari?cursus=C%20reloaded)](https://github.com/BariMehdi77)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/barimehdi77)
 
