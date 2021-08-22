@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
 <!--
 [![42 Profile Card](https://github.com/barimehdi77/barimehdi77/blob/main/header.png)](https://github.com/BariMehdi77)
 **barimehdi77/barimehdi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: C, PYTHON, CYBERSECURITY and MACHINE LEARNING ...
 - 📫 How to reach me: [facebook](https://www.facebook.com/bari.mehdi.77/) - [twitter](https://twitter.com/Barimehdi77) - [linkdin](https://www.linkedin.com/in/Barimehdi77/)
 - ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K45UOA7)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/barimehdi77)
