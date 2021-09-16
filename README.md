@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barimehdi77&repo=42-piscine-exam&theme=radical)](https://github.com/barimehdi77/42-piscine-exam)
 
 
-
-
 ---
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77)
