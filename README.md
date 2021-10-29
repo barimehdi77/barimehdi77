@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Project named **CPP-Modules** you can check it [here](https://github.com/barimehdi77/CPP-Modules)
 - 🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY and MACHINE LEARNING ...
 - 📫 How to reach me: [facebook](https://www.facebook.com/bari.mehdi.77/) - [twitter](https://twitter.com/Barimehdi77) - [linkdin](https://www.linkedin.com/in/Barimehdi77/)
-- ⚡ Fun fact: **The first computer “bug” was an actual real-life bug**
+- ⚡ Fun fact: **It’s all 0’s and 1’s**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K45UOA7)
