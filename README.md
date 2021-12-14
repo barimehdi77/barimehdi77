@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77)
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/mbari?cursus=C%20reloaded)](https://github.com/BariMehdi77)
+
+![](https://hit.yhype.me/github/profile?user_id=54292953)
