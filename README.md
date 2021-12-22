@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=barimehdi77&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barimehdi77&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barimehdi77&repo=42-piscine-exam&theme=radical)](https://github.com/barimehdi77/42-piscine-exam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barimehdi77&repo=Inception&theme=radical)](https://github.com/barimehdi77/42-cub3d)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barimehdi77&repo=Inception&theme=radical)](https://github.com/barimehdi77/inception)
 
 
 ---
