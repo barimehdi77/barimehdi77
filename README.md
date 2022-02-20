@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY, MACHINE LEARNING and Docker ...
 - 📫 How to reach me: [facebook](https://www.facebook.com/bari.mehdi.77/) - [twitter](https://twitter.com/Barimehdi77) - [linkdin](https://www.linkedin.com/in/Barimehdi77/)
 - ⚡ Fun fact: **It’s all 0’s and 1’s**
+
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K45UOA7)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/barimehdi77)
