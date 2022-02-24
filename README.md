@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-cybersecurity-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ---
 ### 📈 My Github status:
-![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=barimehdi77&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barimehdi77&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barimehdi77&repo=42-piscine-exam&theme=radical)](https://github.com/barimehdi77/42-piscine-exam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barimehdi77&repo=Inception&theme=radical)](https://github.com/barimehdi77/inception)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barimehdi77&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=barimehdi77&theme=radical" />
+</p>
 
+![BariMehdi77's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=barimehdi77&theme=redical)
 
 ---
 ### 👨‍💻 My 42 status
