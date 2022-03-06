@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ![BariMehdi77's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=barimehdi77&theme=redical)
 
 ---
-### 👨‍💻 My 42 status
+### 👨‍💻 My 42 status (Coming soon)
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=mbari)](https://github.com/BariMehdi77) -->
-[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/mbari?cursus=C%20reloaded)](https://github.com/BariMehdi77)
+<!-- [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/mbari?cursus=C%20reloaded)](https://github.com/BariMehdi77) -->
 
 ![](https://hit.yhype.me/github/profile?user_id=54292953)
