@@ -1,4 +1,5 @@
-# Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
+# Hello, folks! 👋
+<!-- <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px"> -->
 <!--
 [![42 Profile Card](https://github.com/barimehdi77/barimehdi77/blob/main/header.png)](https://github.com/BariMehdi77)
 **barimehdi77/barimehdi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
