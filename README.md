@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 ![Header.png](https://github.com/barimehdi77/barimehdi77/blob/main/header.png)
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=barimehdi77&&color=blue&style=flat-square"></p>
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=barimehdi77&&color=blue&style=for-the-badge"></p>
 
 - 🔭 I’m currently working on a WebProject named **FootRez** you can check it [here](https://github.com/barimehdi77/FootRez)
 - 🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY, MACHINE LEARNING and Docker ...
