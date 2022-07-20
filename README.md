@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-cybersecurity-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ---
-### 📈 My Github status:
+### 📈 My Github status: 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barimehdi77&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=barimehdi77&theme=radical" />
