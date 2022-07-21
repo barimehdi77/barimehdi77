@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=barimehdi77&&color=blue&style=for-the-badge"></p>
 
 - 🔭 I’m currently working on a WebProject named **FootRez** you can check it [here](https://github.com/barimehdi77/FootRez)
-- 🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY, MACHINE LEARNING and Docker ...
+- 🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY, MACHINE LEARNING, Docker, NestJs, and ReactJs ...
 - 📫 How to reach me: [facebook](https://www.facebook.com/bari.mehdi.77/) - [twitter](https://twitter.com/Barimehdi77) - [linkdin](https://www.linkedin.com/in/Barimehdi77/)
 - ⚡ Fun fact: **It’s all 0’s and 1’s**
 
